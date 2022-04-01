@@ -7,7 +7,9 @@ Api para estudo da conexão do cassandra
 ```
 docker run --name some-cassandra -p 9042:9042 cassandra
 ```
-
+```
+docker exec -it some-cassandra cqlsh
+```
 # Create Keyspace
 
 ```
