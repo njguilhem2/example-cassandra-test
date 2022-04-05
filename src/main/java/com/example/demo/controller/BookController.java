@@ -1,7 +1,7 @@
-package com.cassandra.example.controller;
+package com.example.demo.controller;
 
-import com.cassandra.example.model.Book;
-import com.cassandra.example.service.BookService;
+import com.example.demo.model.Book;
+import com.example.demo.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

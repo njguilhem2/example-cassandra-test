@@ -1,7 +1,7 @@
-package com.cassandra.example.service;
+package com.example.demo.service;
 
-import com.cassandra.example.model.Book;
-import com.cassandra.example.repository.BookRepository;
+import com.example.demo.model.Book;
+import com.example.demo.repository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package com.cassandra.example.repository;
+package com.example.demo.repository;
 
-import com.cassandra.example.model.Book;
+import com.example.demo.model.Book;
 import org.springframework.data.cassandra.repository.CassandraRepository;
 import org.springframework.stereotype.Repository;
 

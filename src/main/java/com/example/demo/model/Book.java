@@ -1,4 +1,4 @@
-package com.cassandra.example.model;
+package com.example.demo.model;
 
 import org.springframework.data.cassandra.core.cql.PrimaryKeyType;
 import org.springframework.data.cassandra.core.mapping.Column;
@@ -42,3 +42,4 @@ public class Book {
         this.name = name;
     }
 }
+
